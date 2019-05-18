@@ -1,9 +1,4 @@
-.App {
-  text-align: center;
-}
-
-
-/* .form {
+.form {
     width: 450px;
     height: 520px;
     padding: 15px;
@@ -63,13 +58,5 @@ button {
   text-align: start;
   margin: 0em;
   font: 400 13.3333px Arial;
-} */
-.Dashboard {
-  width: 100%;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -ms-flex-align: center;
-  align-items: center;
 }
+  

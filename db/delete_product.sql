@@ -1,0 +1,1 @@
+delete product_id from products where product_id = $1;
